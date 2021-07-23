@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NotFlameDev
 - 👀 I’m interested in API's
-- 🌱 I’m currently making discord-helpers
+- 🌱 I’m currently making nothing hehe
 - 💞️ I’m looking to collaborate on Discord Bot
 - 📫 How to reach me contact kylee#1175 on discord
 
